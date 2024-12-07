@@ -1,6 +1,9 @@
 # Classification and Visualization of Brain Tumour Classes
 
 Visualize OpenMRI brain tumour data using Apache Airflow and Flask.
+
+![image](https://github.com/user-attachments/assets/d143766f-3e16-48a6-a0d2-2fff162869ef)
+
 Analyze the class data after training and testing.
 Apply the architecture on a large dataset.
 Cited in Stacked-autoencoder-based model for COVID-19 diagnosis on CT Images ( https://doi.org/10.1007/s10489-020-02002-w ).
