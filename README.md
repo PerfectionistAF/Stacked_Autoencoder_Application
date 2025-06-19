@@ -1,6 +1,7 @@
 # Classification and Visualization of Brain Tumour Classes
 
 Medium article: https://medium.com/p/applying-stacked-autoencoder-architecture-to-a-custom-dataset-adcc60828b30?source=social.linkedin&_nonce=Uj07vZm8
+
 Visualize OpenMRI brain tumour data using Apache Airflow and Flask.
 
 ![image](https://github.com/user-attachments/assets/d143766f-3e16-48a6-a0d2-2fff162869ef)
